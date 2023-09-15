@@ -122,14 +122,14 @@ function App() {
       </Modal>
       </section>
       <footer>
-      {/* <TablePagination
+      <TablePagination
       component="div"
       count={100}
       page={page}
       onPageChange={handleChangePage}
       rowsPerPage={rowsPerPage}
       onRowsPerPageChange={handleChangeRowsPerPage}
-    /> */}
+    />
       </footer>
     </div>
   );
